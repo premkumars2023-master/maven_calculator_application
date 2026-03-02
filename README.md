@@ -1,1 +1,0 @@
-# maven_calculator_application
